@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#canvas{
+    background-color: lightblue;
+    display: block;
+    margin:  auto;
+    text-align: center;
+}
